@@ -93,7 +93,4 @@ Acknowledgments
 This project is designed to demonstrate fundamental Python programming techniques, including modularity, error handling, and logging.
 
 Inspired by real-world scenarios in sales management and payroll systems.
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/salesperson-pay-calculator.git
 
